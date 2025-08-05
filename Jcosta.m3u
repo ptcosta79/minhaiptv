@@ -1,0 +1,43 @@
+#EXTM3U
+
+########## 🇵🇹 Canais Portugueses ##########
+
+#EXTINF:-1 tvg-id="rtp.pt" tvg-name="RTP1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/RTP1_logo_2021.png" group-title="Portugal",RTP1  
+https://streaming-live.rtp.pt/liverepeater/rtp1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rtp.pt" tvg-name="RTP2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/RTP2_logo_2021.png" group-title="Portugal",RTP2  
+https://streaming-live.rtp.pt/liverepeater/rtp2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rtp.pt" tvg-name="RTP3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/RTP3_logo_2021.png" group-title="Portugal",RTP3  
+https://streaming-live.rtp.pt/liverepeater/rtp3.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rtp.pt" tvg-name="RTP Memória" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/RTP_Mem%C3%B3ria_logo_2021.png" group-title="Portugal",RTP Memória  
+https://streaming-live.rtp.pt/liverepeater/rtpmemoria.smil/playlist.m3u8
+
+########## 🇧🇷 Canais Brasileiros ##########
+
+#EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="TV Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/TV_Brasil_logo_2022.png" group-title="Brasil",TV Brasil  
+https://tvbrasil.ebc.com.br/playlist.m3u8
+
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Record_News_logo_2021.png" group-title="Brasil",Record News  
+https://playplusnews-lh.akamaihd.net/i/recordnews_1@123456/master.m3u8
+
+#EXTINF:-1 tvg-id="tvcultura.br" tvg-name="TV Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/TV_Cultura_logo_2020.png" group-title="Brasil",TV Cultura  
+https://streaming.tvcultura.com.br/live/cultura/playlist.m3u8
+
+#EXTINF:-1 tvg-id="redevida.br" tvg-name="Rede Vida" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Rede_Vida_logo.png" group-title="Brasil",Rede Vida  
+https://srv3.zcast.com.br/redevida/redevida/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvcamara.br" tvg-name="TV Câmara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/TV_C%C3%A2mara_logo.png" group-title="Brasil",TV Câmara  
+https://stream3.camara.leg.br/tv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvpipoca.br" tvg-name="TV Pipoca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/TV_Pipoca_logo.png" group-title="Filmes Brasil",TV Pipoca  
+https://stmv1.srvif.com/tvpipoca/tvpipoca/playlist.m3u8
+
+########## 🎬 Filmes em Português ##########
+
+#EXTINF:-1 tvg-id="filmbox.pt" tvg-name="FilmBox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/FilmBox_logo.png" group-title="Filmes",FilmBox  
+https://dai2.xumo.com/xumocdn/p=roku/manifest/filmbox.m3u8
+
+#EXTINF:-1 tvg-id="moviecentral.pt" tvg-name="Movie Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Movie_Central_logo.png" group-title="Filmes",Movie Central  
+https://dai2.xumo.com/xumocdn/p=roku/manifest/moviecentral.m3u8
