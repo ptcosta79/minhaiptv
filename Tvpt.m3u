@@ -1,0 +1,37 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP1" group-title="🇵🇹 Canais Portugueses",RTP1
+http://stream-dv.rtp.pt/rtp1.m3u8
+
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="RTP3" group-title="🇵🇹 Canais Portugueses",RTP3
+http://stream-dv.rtp.pt/rtp3.m3u8
+
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI" group-title="🇵🇹 Canais Portugueses",TVI
+http://tvi-player-live.tvi.iol.pt/stream.m3u8
+
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV" group-title="🇵🇹 Canais Portugueses",CMTV
+http://cmtv-live.cdn.mediacdn.com/cmtv.m3u8
+
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="Canal 11" group-title="⚽ Desporto",Canal 11
+https://canal11-live.sapo.pt/stream.m3u8
+
+#EXTINF:-1 tvg-id="RTPDesporto.pt" tvg-name="RTP Desporto" group-title="⚽ Desporto",RTP Desporto
+http://stream-dv.rtp.pt/desporto.m3u8
+
+#EXTINF:-1 tvg-id="PlutoFilmes.pt" tvg-name="Pluto Filmes" group-title="🎬 Filmes",Pluto Filmes
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2b5e2e5e8f3c0007e3b8b0/master.m3u8
+
+#EXTINF:-1 tvg-id="Rakuten.pt" tvg-name="Rakuten Filmes" group-title="🎬 Filmes",Rakuten Filmes
+https://rakuten-live.sapo.pt/filmes.m3u8
+
+#EXTINF:-1 tvg-id="PandaKids.pt" tvg-name="Panda Kids" group-title="👶 Infantil",Panda Kids
+https://pandakids-live.sapo.pt/stream.m3u8
+
+#EXTINF:-1 tvg-id="RComercial.pt" tvg-name="Rádio Comercial" group-title="🎧 Rádio",Rádio Comercial
+https://radiocomercial-live.sapo.pt/stream.m3u8
+
+#EXTINF:-1 tvg-id="Antena1.pt" tvg-name="Antena 1" group-title="🎧 Rádio",Antena 1
+https://antena1-live.sapo.pt/stream.m3u8
+
+#EXTINF:-1 tvg-id="TSF.pt" tvg-name="TSF Rádio" group-title="🎧 Rádio",TSF Rádio
+https://tsf-live.sapo.pt/stream.m3u8
